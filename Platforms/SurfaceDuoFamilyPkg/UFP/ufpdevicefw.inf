@@ -7,7 +7,7 @@
   ENTRY_POINT    = EfiEntry
 
 [Binaries.Arm]
-   PE32|ufpdevicefw.efi|RELEASE
+   PE32|ufpdevicefw.patched.efi|RELEASE
 
 [Binaries.AARCH64]
-   PE32|ufpdevicefw.efi|RELEASE
+   PE32|ufpdevicefw.patched.efi|RELEASE
